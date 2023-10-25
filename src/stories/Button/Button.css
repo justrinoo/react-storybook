@@ -1,0 +1,29 @@
+.btn {
+    color: #000;
+    font-weight: 600;
+}
+
+/* Button Size */
+.btn-size-small {
+    padding: 5px;
+    margin: 5px;
+}
+.btn-size-medium {
+    padding: 10px;
+    margin: 10px;
+}
+.btn-size-large {
+    padding: 15px;
+    margin: 15px;
+}
+
+/* Button Variant */
+.btn-bg-primary {
+    background-color: aqua;
+}
+.btn-bg-secondary {
+    background-color: grey;
+}
+.btn-bg-danger {
+    background-color: tomato;
+}
